@@ -61,6 +61,7 @@ I did not see a change for these.
 
 ## Summary 
 Four changes to the statistics as a result of removing Thomas High School's scores for Ninth graders are as follows:
+
 1.) The district-level statistics did not change much, which makes sense to me since these are an aggregation of 15 different schools and the adjustment of one grade from an individual school is unlikely to have a large impact on the results.
 
 2.)Thomas High School's average math/reading scores did not change drastically, but the percent passing did. This result surprised me as I thought the average scores may have decreased signficantly as a result of any cheating. However, it does make sense that the percent passing would decrease signficantly as the 9th graders may have been more likely to pass if they were cheating.
