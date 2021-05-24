@@ -28,9 +28,11 @@ As you can see, removing the ninth graders from Thomas High School decreased the
 
 The original school-level analysis is included below, followed by the adjusted analysis after disclusing then ninth grader's scores.
 
-Original District-Level Analysis:
+Original School-Level Analysis:
 
-![Original School-Level Analysis](https://github.com/SethBoswell/School_District_Analysis/blob/main/Resources/original_school_analysis.png)
+![Original School-Level Analysis](https://github.com/SethBoswell/School_District_Analysis/blob/main/Resources/original_school_analysis_2.png)
+
+Adjusted School-Level Analysis
 
 ![Adjusted School-Level Analysis](https://github.com/SethBoswell/School_District_Analysis/blob/main/Resources/adjusted_school_level_analysis.png)
 
