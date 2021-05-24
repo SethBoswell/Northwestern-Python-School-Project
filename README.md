@@ -39,23 +39,32 @@ Adjusted School-Level Analysis
 As you can see, the average math score decreased slightly; however, the average reading score increased slightly. More importantly, it appears that the percent of students passing the math score, the reading score, and both scores combined dropped heavily, by 20-30%. This tells me that although the average score did not change by much, the percent of students that passed at Thomas High School was significantly lowered by excluding the ninth grade students. 
 
 - Performance of Thomas High School
+
 In the original dataset, Thomas High School was ranked 2nd in terms of overall passing percentage; however, it fell to 8th after adjusting for the ninth grader scores, so it's placement fell by a lot.
+
 - Math and Reading Scores by Grade
+
 For Thomas High School, the 9th grade statistics now show up as NaN instead of as values since they were removed. See below image as an example. 
 
 ![Adjusted Score by Grade](https://github.com/SethBoswell/School_District_Analysis/blob/main/Resources/adjusted_score_by_grade.png)
 
 
 - Scores by School Spending
+
 I did not see a change for these.
 - Scores by School Size
+
 I did not see a change for these.
 - Scores by School Type
+
 I did not see a change for these.
 
 ## Summary 
 Four changes to the statistics as a result of removing Thomas High School's scores for Ninth graders are as follows:
 1.) The district-level statistics did not change much, which makes sense to me since these are an aggregation of 15 different schools and the adjustment of one grade from an individual school is unlikely to have a large impact on the results.
+
 2.)Thomas High School's average math/reading scores did not change drastically, but the percent passing did. This result surprised me as I thought the average scores may have decreased signficantly as a result of any cheating. However, it does make sense that the percent passing would decrease signficantly as the 9th graders may have been more likely to pass if they were cheating.
+
 3.) The performance of Thomas High School dropped significantly, which makes sense because, if the ninth graders were cheating, then removing their scores should decrease their ranking.
+
 4.) Interestingly, I did not see any changes in scores by category such as school spending, size, and type. This surprised me to not see any small changes to the category that Thomas High School falls into. Nevertheless, the fact that Thomas High School is only one out of 15 schools leads to me believe that removing one grade from Thomas would not have a signifanct impact on these statistics. 
